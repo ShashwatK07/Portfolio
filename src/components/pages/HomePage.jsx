@@ -41,7 +41,7 @@ const HomePage = () => {
             </motion.p>
             <div className="flex items-center self-start mt-2 lg:self-center md:mb-6">
               <Link
-                to="/Shashwat_Resume.pdf"
+                to="/Shashwat-Kapoor.pdf"
                 target="_blank"
                 download={true}
                 className="flex items-center justify-center bg-black text-white p-2.5 px-6 rounded-lg text-lg font-semibold hover:bg-white hover:text-black border-2 border-solid hover:border-black"

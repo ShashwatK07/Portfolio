@@ -45,6 +45,14 @@ const ProjectsPage = () => {
                 github="https://github.com/ShashwatK07/Hire_It"
               />
             </div>
+            <div className="mb-24">
+              <Projects
+                title="Nike"
+                desc="Streamline your Nike shopping experience with our intuitive single-page app, offering a diverse range of the brand's latest products with ease of navigation."
+                img="/Nike.png"
+                github="https://github.com/ShashwatK07/Nike"
+              />
+            </div>
           </div>
         </div>
       </main>
